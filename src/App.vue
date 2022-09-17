@@ -18,7 +18,7 @@
               <el-badge :is-dot="personDot" class="item">
                 <el-button type="primary" @click="currentPage = 1">个人信息</el-button>
               </el-badge>
-              <el-badge value="6" class="item">
+              <el-badge value="3" class="item">
                 <el-button type="primary" @click="currentPage = 3">喜欢的作品</el-button>
               </el-badge>
               <el-badge :is-dot="privacyDot" class="item">
